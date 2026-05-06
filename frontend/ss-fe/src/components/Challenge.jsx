@@ -13,11 +13,11 @@ export default function Challenge({challenge, onDelete, onEdit}){
     
         return (
             <>
-                <h2>{challenge.title}</h2>
-                <p>{challenge.difficulty}</p>
-                <p>{challenge.postedBy}</p>
-                <p>{challenge.description}</p>
-                <p>{challenge.tags}</p>
+                <h3>{challenge.title}</h3>
+                <p>Difficulty: {challenge.difficulty}</p>
+                <p>Posted by: {challenge.postedBy}</p>
+                <p>Description: {challenge.description}</p>
+                <p>Tags: {challenge.tags}</p>
             </>
         )
 }

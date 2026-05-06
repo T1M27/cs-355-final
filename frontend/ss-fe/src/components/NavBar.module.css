@@ -1,0 +1,15 @@
+.navBarMain {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px limegreen solid;
+}
+.navInActive {
+    text-decoration: none;
+    color: blue;
+}
+.navActive {
+    background-color: limegreen;
+    color: yellow;
+    text-transform: uppercase;
+    text-decoration: none;
+}

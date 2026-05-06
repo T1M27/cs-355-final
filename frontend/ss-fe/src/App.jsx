@@ -1,14 +1,19 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
+import { useState, useEffect } from 'react'
 import './App.css'
 import APIService from './services/APIService'
-import { useEffect } from 'react'
+import Challenge from './components/Challenge'
+import UserNotification from './components/UserNotification'
+import Registration from './components/Registration'
+import {Routes, Route, useNavigate} from 'react-router-dom';
+import NavBar from './components/NavBar.jsx';
+import Login from './components/Login'
+import AddEditChallenge from './components/AddEditChallenge.jsx'
 
 function App() {
   const [challenges, setChallenges] = useState([]);
   const [notification, setNotification] = useState(null);
+  const [challengeToEdit, setChallengeToEdit] = useState(null);
+  const navigate = useNavigate();
   
   function loadChallenges(){
     setNotification("Loading...");
@@ -33,9 +38,18 @@ function App() {
     , []);
 
   return (
-    challenges.map((chall) => (
-      <Challenge key={chall.id} challenge={chall}/>
-    ))
+    <>
+      {notification && <UserNotification message={notification} />}
+      <h2>Skill Sprint</h2>
+      <Routes>
+        <Route path="/registration" element={<Registration onCompletion={setNotification}/>}/>
+        <Route path="/login" element={<Login onCompletion={setNotification} refreshChallenges={loadChallenges}/>}/>
+        <Route path="/challenge/change" element={<AddEditChallenge onSuccess={loadChallenges} onError={setNotification} challenge={challengeToEdit}/>}/>
+        <Route path="/" element={challenges.map((chall) => (
+        <Challenge key={chall.id} challenge={chall}/>
+        ))}/>
+      </Routes>
+    </>
   )
 }
 
