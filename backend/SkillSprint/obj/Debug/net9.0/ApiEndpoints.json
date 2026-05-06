@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "SkillSprint.Controllers.ChallengesController",
+    "Method": "GrabAllChallenges",
+    "RelativePath": "api/Challenges",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "difficulty",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "postedBy",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SkillSprint.Controllers.ChallengesController",
+    "Method": "AddUsersChallenge",
+    "RelativePath": "api/Challenges",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usersChallenge",
+        "Type": "SkillSprint.Models.Challenge",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SkillSprint.Controllers.ChallengesController",
+    "Method": "GrabOneChallenge",
+    "RelativePath": "api/Challenges/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SkillSprint.Controllers.ChallengesController",
+    "Method": "UpdateChallenge",
+    "RelativePath": "api/Challenges/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "usersChallenge",
+        "Type": "SkillSprint.Models.Challenge",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SkillSprint.Controllers.ChallengesController",
+    "Method": "DeleteChallenge",
+    "RelativePath": "api/Challenges/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

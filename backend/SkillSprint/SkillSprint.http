@@ -1,0 +1,6 @@
+@SkillSprint_HostAddress = http://localhost:5008
+
+GET {{SkillSprint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
