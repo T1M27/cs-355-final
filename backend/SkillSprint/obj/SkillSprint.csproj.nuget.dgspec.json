@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zekut\\css-355-lecture\\Final\\backend\\SkillSprint\\SkillSprint.csproj": {}
+    "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\SkillSprint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zekut\\css-355-lecture\\Final\\backend\\SkillSprint\\SkillSprint.csproj": {
+    "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\SkillSprint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zekut\\css-355-lecture\\Final\\backend\\SkillSprint\\SkillSprint.csproj",
+        "projectUniqueName": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\SkillSprint.csproj",
         "projectName": "SkillSprint",
-        "projectPath": "C:\\Users\\zekut\\css-355-lecture\\Final\\backend\\SkillSprint\\SkillSprint.csproj",
+        "projectPath": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\SkillSprint.csproj",
         "packagesPath": "C:\\Users\\zekut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zekut\\css-355-lecture\\Final\\backend\\SkillSprint\\obj\\",
+        "outputPath": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

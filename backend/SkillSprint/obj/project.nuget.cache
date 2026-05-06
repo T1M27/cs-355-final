@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IzXJXoBj4hA=",
+  "dgSpecHash": "aqa9Elmy9I8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zekut\\css-355-lecture\\Final\\backend\\SkillSprint\\SkillSprint.csproj",
+  "projectFilePath": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\SkillSprint.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zekut\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\zekut\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.15\\microsoft.aspnetcore.authentication.jwtbearer.9.0.15.nupkg.sha512",
