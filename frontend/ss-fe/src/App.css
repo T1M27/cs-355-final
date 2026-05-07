@@ -1,3 +1,7 @@
+body {
+  background-image: url('https://imgs.search.brave.com/IO0ckzYmj5DCIgO66japhUIbwpKFyF6DHOWSSa2UsgA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/MmxkanpJX21mOHdB/QUFBTS9hbmdyeS1l/bG1vLmdpZg.gif');
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
