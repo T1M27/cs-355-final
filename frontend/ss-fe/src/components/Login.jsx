@@ -28,7 +28,7 @@ export default function Login({onCompletion, refreshChallenges}) {
             localStorage.setItem("token",response.data.token);
             localStorage.setItem("user",JSON.stringify(response.data));
             axios.defaults.headers.common["Authorization"] = `Bearer ${response.data.token}`;
-            refreshCards();
+            refreshChallenges();
             navigate("/");
         })
         .catch((error) => {

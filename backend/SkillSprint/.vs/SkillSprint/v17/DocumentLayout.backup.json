@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\services\\ichallengestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:services\\ichallengestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\controllers\\challengescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:controllers\\challengescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\services\\challengessqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:services\\challengessqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\services\\ichallengestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:services\\ichallengestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\models\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\services\\challengessqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|solutionrelative:services\\challengessqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B96F883-B42E-4AB5-8E8F-33F9A9ACAD7D}|SkillSprint.csproj|c:\\users\\zekut\\css-355-lecture\\final\\cs-355-final\\backend\\skillsprint\\services\\apichallenges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,50 +70,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwEYAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T23:35:58.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAlwCcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T21:56:16.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T19:47:01.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ChallengeDTO.cs",
               "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Models\\ChallengeDTO.cs",
               "RelativeDocumentMoniker": "Models\\ChallengeDTO.cs",
@@ -125,20 +112,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ChallengesController.cs",
               "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Controllers\\ChallengesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ChallengesController.cs",
               "ToolTip": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Controllers\\ChallengesController.cs",
               "RelativeToolTip": "Controllers\\ChallengesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T19:48:38.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "ChallengesSQLite.cs",
+              "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Services\\ChallengesSQLite.cs",
+              "RelativeDocumentMoniker": "Services\\ChallengesSQLite.cs",
+              "ToolTip": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Services\\ChallengesSQLite.cs",
+              "RelativeToolTip": "Services\\ChallengesSQLite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T18:43:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwEYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:35:58.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RegisterUserDTO.cs",
               "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Models\\RegisterUserDTO.cs",
               "RelativeDocumentMoniker": "Models\\RegisterUserDTO.cs",
@@ -150,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -162,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Challenge.cs",
               "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Models\\Challenge.cs",
               "RelativeDocumentMoniker": "Models\\Challenge.cs",
@@ -174,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Models\\LoginDTO.cs",
               "RelativeDocumentMoniker": "Models\\LoginDTO.cs",
@@ -186,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "IChallengeStorage.cs",
               "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Services\\IChallengeStorage.cs",
               "RelativeDocumentMoniker": "Services\\IChallengeStorage.cs",
@@ -194,8 +206,7 @@
               "RelativeToolTip": "Services\\IChallengeStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T20:26:31.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T20:26:31.118Z"
             },
             {
               "$type": "Document",
@@ -208,18 +219,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T23:54:41.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ChallengesSQLite.cs",
-              "DocumentMoniker": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Services\\ChallengesSQLite.cs",
-              "RelativeDocumentMoniker": "Services\\ChallengesSQLite.cs",
-              "ToolTip": "C:\\Users\\zekut\\css-355-lecture\\Final\\cs-355-final\\backend\\SkillSprint\\Services\\ChallengesSQLite.cs",
-              "RelativeToolTip": "Services\\ChallengesSQLite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:43:50.985Z"
             },
             {
               "$type": "Document",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillSprint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0e62f56d573d8741b5165344151ff5d1d35f58f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a91938f7f3f0601387c1daab25b6c0fefd58b7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillSprint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillSprint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

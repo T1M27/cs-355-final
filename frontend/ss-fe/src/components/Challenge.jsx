@@ -18,6 +18,8 @@ export default function Challenge({challenge, onDelete, onEdit}){
                 <p>Posted by: {challenge.postedBy}</p>
                 <p>Description: {challenge.description}</p>
                 <p>Tags: {challenge.tags}</p>
+                <button onClick={handleDelete}>Delete Challenge</button>
+                <button onClick={() => onEdit(challenge)}>Edit Challenge</button>
             </>
         )
 }

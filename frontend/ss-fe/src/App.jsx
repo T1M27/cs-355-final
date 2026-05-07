@@ -41,13 +41,15 @@ function App() {
     <>
       {notification && <UserNotification message={notification} />}
       <h2>Skill Sprint</h2>
+      <NavBar />
       <Routes>
         <Route path="/registration" element={<Registration onCompletion={setNotification}/>}/>
         <Route path="/login" element={<Login onCompletion={setNotification} refreshChallenges={loadChallenges}/>}/>
         <Route path="/challenge/change" element={<AddEditChallenge onSuccess={loadChallenges} onError={setNotification} challenge={challengeToEdit}/>}/>
         <Route path="/" element={challenges.map((chall) => (
-        <Challenge key={chall.id} challenge={chall}/>
+          <Challenge key={chall.id} challenge={chall}/>
         ))}/>
+        <Route path="/challenge/change/:challengeId" element={<AddEditChallenge onSuccess={loadChallenges} onError={setNotification} challenge={challengeToEdit}/>}/>
       </Routes>
     </>
   )

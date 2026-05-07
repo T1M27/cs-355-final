@@ -8,7 +8,7 @@ namespace SkillSprint.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    //[Authorize]
+    [Authorize]
     public class ChallengesController : ControllerBase
     {
         private ChallengeService challengeService = new ChallengeService();

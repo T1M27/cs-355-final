@@ -1,16 +1,14 @@
-# React + Vite
+# Skill Sprint
+Skill Sprint is a platform where users can take on coding challenges posted by the Skill Sprint Council.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Home
+In this page, users can see all the available challenges created by the Council.
 
-Currently, two official plugins are available:
+# Registration
+To register, go to the registration page as shown in the navigation bar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Login
+To login, go to the login page as shown in the navigation bar.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Challenge Creation/Edit
+The Skill Sprint Council can create/edit challenges for the users to see.

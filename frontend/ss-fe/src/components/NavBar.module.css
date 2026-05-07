@@ -1,14 +1,14 @@
 .navBarMain {
     display: flex;
     justify-content: space-around;
-    border-bottom: 1px limegreen solid;
+    border-bottom: 1px magenta solid;
 }
 .navInActive {
     text-decoration: none;
-    color: blue;
+    color: red;
 }
 .navActive {
-    background-color: limegreen;
+    background-color: magenta;
     color: yellow;
     text-transform: uppercase;
     text-decoration: none;

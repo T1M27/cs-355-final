@@ -55,11 +55,11 @@ export default function AddEditChallenge({onSuccess, onError, challenge}){
     }
     useEffect(() => {
         if(challenge){
-            setTitle(card.title);
-            setDescription(card.description);
-            setDifficulty(card.difficulty);
-            setTags(card.tags);
-            setPostedBy(card.postedBy);
+            setTitle(challenge.title);
+            setDescription(challenge.description);
+            setDifficulty(challenge.difficulty);
+            setTags(challenge.tags);
+            setPostedBy(challenge.postedBy);
         }
     },[challenge])
     return (

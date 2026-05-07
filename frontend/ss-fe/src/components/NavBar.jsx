@@ -9,7 +9,7 @@ export default function NavBar() {
                 <NavLink to="/" className={({isActive}) => isActive ? styles.navActive : styles.navInActive }>Home</NavLink> |
                 <NavLink to="/registration" className={({isActive}) => isActive ? styles.navActive : styles.navInActive }>Register</NavLink> |
                 <NavLink to="/login" className={({isActive}) => isActive ? styles.navActive : styles.navInActive }>Login</NavLink> |
-                <NavLink to="/card/change" className={({isActive}) => isActive ? styles.navActive : styles.navInActive }>Add Card</NavLink>
+                <NavLink to="/challenge/change" className={({isActive}) => isActive ? styles.navActive : styles.navInActive }>Add Challenge</NavLink>
             </nav>
         </>
     )
