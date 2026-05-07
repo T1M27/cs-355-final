@@ -2,14 +2,14 @@ import APIService from "../services/APIService";
 
 export default function Challenge({challenge, onDelete, onEdit}){
     function handleDelete(){
-        APIService.deleteCard(card.id)
+        APIService.deleteChallenge(challenge.id)
             .then((response) => {
                 onDelete();
             })
             .catch((error) => {
 
             })
-        }
+    }
     
         return (
             <>

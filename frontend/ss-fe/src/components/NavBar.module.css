@@ -12,4 +12,6 @@
     color: yellow;
     text-transform: uppercase;
     text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
 }
